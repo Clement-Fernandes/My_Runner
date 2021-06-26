@@ -36,7 +36,7 @@ all:	 $(NAME)
 
 $(NAME):	$(OBJ)
 	gcc -Wall -Wextra -o $(NAME) $(OBJ) $(CSFML)
-	tput setaf 5; cat include/signature; tput sgr0
+	@tput setaf 5; cat include/signature; tput sgr0
 
 clean:
 	rm -f $(OBJ)
