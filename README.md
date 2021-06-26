@@ -1,8 +1,5 @@
-# My Runner
+# My_Runner
 
-![Linux](https://img.shields.io/badge/Unix_System-CSFML-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+Second project of the gaming axis :
 
-> Voir les [détails](https://clement-fernandes.github.io/nouveau-porfolio/directories/fr/runner.html) .
-<br>
-
-> See the [details](https://clement-fernandes.github.io/nouveau-porfolio/directories/en/runner.html) .
+Game with a scrolling camera in which the character must stay, while dodging obstacles.
